@@ -68,12 +68,12 @@ p {
 
 h1 {
   font-weight: bolder;
-  padding: 0 15px 0 15px;
+  /* padding: 0 15px 0 15px; */
 }
 
 p {
   font-size: 16px;
-  padding: 0 15px 0 15px;
+  /* padding: 0 15px 0 15px; */
 }
 
 
