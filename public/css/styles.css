@@ -68,12 +68,12 @@ p {
 
 h1 {
   font-weight: bolder;
-  /* padding: 0 15px 0 15px; */
+  padding: 0 15px 0 15px;
 }
 
 p {
   font-size: 16px;
-  /* padding: 0 15px 0 15px; */
+  padding: 0 15px 0 15px;
 }
 
 
@@ -84,6 +84,7 @@ p {
   width: 100%;
   height: 60px;
   background-color: yellow;
+  margin-top: 25px;
 }
 
 .footer p {
@@ -103,6 +104,7 @@ p {
     position: relative;
     margin-top: 25px;
   }
+
 }
 
 @media only screen and (max-width: 768px) {
