@@ -99,7 +99,7 @@ p {
   color: white;
 }
 
-@media only screen and (max-width: 768px, max-height: 100%) {
+@media only screen and (max-width: 812px, max-height: 100%) {
   .footer {
     position: relative;
     margin-top: 25px;
@@ -107,7 +107,7 @@ p {
 
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 812px) {
   .navbar {
     position: relative;
     margin-bottom: 25px;
